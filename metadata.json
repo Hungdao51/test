@@ -1,0 +1,5 @@
+{
+  "name": "Bản đồ & Chỉ đường",
+  "description": "Ứng dụng bản đồ cho phép tìm kiếm địa điểm, xem bản đồ, chỉ đường và tính toán khoảng cách.",
+  "requestFramePermissions": ["geolocation"]
+}
